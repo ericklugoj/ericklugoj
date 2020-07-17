@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/ericklugoj/ericklugoj/master/logo_lugo.png" width=500 alt="LUGO">
+    <img src="https://raw.githubusercontent.com/ericklugoj/ericklugoj/master/logo_lugo.png" width=400 alt="LUGO">
     <br>
     <a href="https://www.facebook.com/ErickLugoJ/" target="_blank">
         <img src="https://img.shields.io/badge/Facebook-%40ErickLugoJ-blue">
