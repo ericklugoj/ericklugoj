@@ -8,5 +8,7 @@
         <img src="https://img.shields.io/twitter/follow/ErickLugoo?style=social">
     </a>
     <br>
-    Make It Happen ☄️
+    Let's make something together 🏴‍☠️
+    <br>
+    <img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif">
 </p>
