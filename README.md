@@ -10,7 +10,7 @@
 
 🔭 I’m currently working on **GBM Grupo Bursatil Mexicano** as **Frontend Engineer** 
 
-🧨 My Current Stack: **ReactJS, Typescript, Redux, Tailwind, SASS, React Query, StoryBook, Hooks**
+🧨 My Current Stack: **ReactJS, Typescript, Redux, React Testing Library, Jest, Tailwind, SASS, React Query, StoryBook, Hooks**
 
 📚 In my free time i like to **learn new things** like **Backend** and **DevOps** Topics.
 
