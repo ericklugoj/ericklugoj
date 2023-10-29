@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Erick Lugo A.K.A LUGO</h1>
-<h3 align="center">A Frontend Developer with +3 years of experience</h3>
+<h3 align="center">A Frontend Developer with +5 years of experience</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ericklugoj&label=Profile%20views&color=0e75b6&style=flat" alt="ericklugoj" /> </p>
 
