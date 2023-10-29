@@ -7,13 +7,14 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ericklugoj&label=Profile%20views&color=0e75b6&style=flat" alt="ericklugoj" /> </p>
 
----
 
 🔭 I’m currently working on **GBM Grupo Bursatil Mexicano**
 
 💬 Ask me about **Reactjs**
 
 📫 How to reach me **ericklugoj@gmail.com**
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
