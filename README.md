@@ -12,7 +12,7 @@
 
 🧨 My Current Stack: **ReactJS, Typescript, Redux, Tailwind, SASS, React Query, StoryBook, Hooks**
 
-📚 In my free time i like to **learn new things** like: **Backend** and **DevOps** Topics.
+📚 In my free time i like to **learn new things** like **Backend** and **DevOps** Topics.
 
 📫 How to reach me **ericklugoj@gmail.com**
 
