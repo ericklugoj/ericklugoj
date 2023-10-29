@@ -8,9 +8,11 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ericklugoj&label=Profile%20views&color=0e75b6&style=flat" alt="ericklugoj" /> </p>
 
 
-🔭 I’m currently working on **GBM Grupo Bursatil Mexicano**
+🔭 I’m currently working on **GBM Grupo Bursatil Mexicano** as **Frontend Engineer** 
 
-💬 Ask me about **Reactjs**
+🧨 My Current Stack: **ReactJS, Typescript, Redux, Tailwind, SASS, React Query, StoryBook, Hooks**
+
+📚 In my free time i like to **learn new things** like: **Backend** and **DevOps** Topics.
 
 📫 How to reach me **ericklugoj@gmail.com**
 
